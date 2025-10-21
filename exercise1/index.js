@@ -3,7 +3,7 @@ import OpenAI from 'openai';
 import readlineSync from 'readline-sync';
 
 const openai = new OpenAI({
-  apiKey: process.env.OPENAIkeys
+  apiKey: process.env.OPENAI_API_KEY
 });
 
 async function generateText() {
