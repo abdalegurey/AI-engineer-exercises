@@ -1,0 +1,50 @@
+[
+  {
+    "file": "dall-e-3_1024x1024_vivid.png",
+    "model": "dall-e-3",
+    "size": "1024x1024",
+    "style": "vivid",
+    "revisedPrompt": "A tranquil view of the vast Somali desert at sunset. The sky is ablaze with hues of purple, orange and pink as the setting sun paints the horizon. In the foreground, a small group of camels, with their distinctive humps and long legs, are making their way slowly across the sandy terrain. Towards the side of the scene, a few sparse, resilient palm trees stand tall, their wide leaves forming stark silhouettes against the vibrant colors of the evening sky.",
+    "topic": "Somali desert sunset with camels and palm trees"
+  },
+  {
+    "file": "dall-e-3_1024x1024_natural.png",
+    "model": "dall-e-3",
+    "size": "1024x1024",
+    "style": "natural",
+    "revisedPrompt": "A magnificent sunset over the expansive Somali desert that's casting a fiery orange glow across the landscape. There are multiple camels trekking across this vast wilderness, their forms silhouetted against the setting sun. In the distance, the tops of palm trees slightly sway in the gentle breeze. The sky above is a masterpiece of reds, oranges, and purples intermingling in a glorious display of nature's canvas. The scene encapsulates the breathtaking serenity and harsh beauty of the desert life.",
+    "topic": "Somali desert sunset with camels and palm trees"
+  },
+  {
+    "file": "dall-e-3_1792x1024_vivid.png",
+    "model": "dall-e-3",
+    "size": "1792x1024",
+    "style": "vivid",
+    "revisedPrompt": "Imagine a breathtaking scene of a sunset in the Somali desert. The waning rays of the sun paint the sky with warm hues of orange, pink, and purple. A caravan of camals, silhouetted by the fading light, trek across the sandy landscape guided by an East African Somali man donned in traditional attire. Scattered around are clusters of palm trees, their fronds dancing lightly in the desert breeze. The shadows cast by the trees and the camels are elongated, hinting at the sun's lowering position. Despite the harsh environment, there is a sense of peace and serenity in viewing this natural spectacle.",
+    "topic": "Somali desert sunset with camels and palm trees"
+  },
+  {
+    "file": "dall-e-3_1792x1024_natural.png",
+    "model": "dall-e-3",
+    "size": "1792x1024",
+    "style": "natural",
+    "revisedPrompt": "Visualize an enchanting scene of a Somali desert as the sun sets into the horizon. Highlight the warm hues of orange, pink, and golden yellow reflected off of the endless sand dunes, bringing a sense of tranquillity and calmness to the environment. In the middle of this seascape, depict a small group of camels lounging peacefully. Accentuate their long-legged, humpbacked silhouettes against the lighting of the setting sun. Nestled near the camels, illustrate a few palm trees with their distinctive shape and structure contributing to an oasis-like atmosphere in the heart of the desert.",
+    "topic": "Somali desert sunset with camels and palm trees"
+  },
+  {
+    "file": "dall-e-3_1024x1792_vivid.png",
+    "model": "dall-e-3",
+    "size": "1024x1792",
+    "style": "vivid",
+    "revisedPrompt": "Imagine a captivating scene of a Somali desert as the sun is setting. The sky is painted with hues of deep orange and purple, casting long shadows on the sandy terrain. A group of camels, their silhouettes contrasting with the vibrant backdrop, are peacefully grazing nearby. Palm trees scattered across the landscape add an interesting dimension to the scene, their fronds rustling lightly in the evening breeze. This tranquil setting captures the unique beauty and serenity of desert life as another day gradually draws to a close.",
+    "topic": "Somali desert sunset with camels and palm trees"
+  },
+  {
+    "file": "dall-e-3_1024x1792_natural.png",
+    "model": "dall-e-3",
+    "size": "1024x1792",
+    "style": "natural",
+    "revisedPrompt": "Envision a breathtaking scene unfolding in the Somali desert at sunset. The sky painted in hues of deep orange and purple, offset by the intensely yellow sun sinking beneath the horizon. Sparse yet resilient, a few palms trees bring a certain grace to this harsh landscape. The scene is further enlivened by a group of majestic camels, their silhouettes casting long shadows as they make their way home. Sand dunes ripple across the landscape, seemingly touched with gold by the waning sunlight. This is a tranquil desert scene, capturing the raw beauty of Somali's arid charm.",
+    "topic": "Somali desert sunset with camels and palm trees"
+  }
+]
